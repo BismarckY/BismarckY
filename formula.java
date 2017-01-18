@@ -16,7 +16,7 @@ public final class JavaIntList {
   * Sorts the cards in the hand so that cards of the same suit are
   * grouped together, and within a suit the cards are sorted by value.
   * Note that aces are considered to have the lowest value, 1.
-  * Test for change ----
+  * Test for change ----ddd
   */
  public void sortBySuit() {
      ArrayList<Card> newHand = new ArrayList<Card>();
